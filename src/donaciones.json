@@ -1,0 +1,35 @@
+[
+
+    {
+      "title": "Edu",
+      "nombre": "Edu",            
+      "tipo_donacion": "fafafa",      
+      "coordinates": [-34.53145026487, -58.523509207716536],      
+      "quiere_donar": "sí",
+      "pide_donacion": "no",
+      "datos_contacto": "merluza@fafafa.com",
+      "_id": 1
+    },
+    {
+        "title": "Centro Universitario Vicente López",     
+        "nombre": "Centro Universitario Vicente López",     
+        "tipo_donacion": "computadoras",
+        "coordinates": [-34.53084076336598, -58.5201560460207],
+        "quiere_donar": "no",
+        "pide_donacion": "sí",
+        "datos_contacto": "",
+        "_id": 2
+      },
+      {
+        "title": "Fernando Fernández",     
+        "nombre": "Fernando Fernández",     
+        "tipo_donacion": "abogado",
+        "coordinates": [-34.4977977, -58.4977139],
+        "quiere_donar": "no",
+        "pide_donacion": "sí",
+        "datos_contacto": "",
+        "_id": 3
+      }
+
+      
+]

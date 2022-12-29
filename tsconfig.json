@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+      "target": "es2019",
+      "checkJs": false,
+      "module": "esnext",
+      "outDir": "./dist",
+      "rootDir": ".",
+      "downlevelIteration": true,
+      "strict": false,
+      "baseUrl": "./src",
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "allowJs": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true,
+      "jsx": "preserve"
+    },
+    "exclude": ["./test"],
+    "include": ["src"],
+    "rules": {
+      "no-unused-vars": "off"
+    }
+  }
+  
